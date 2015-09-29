@@ -1,0 +1,22 @@
+# https://github.com/phonegap/phonegap-app-developer/blob/master/.gitignore
+
+# Mac
+.DS_Store
+
+# Node
+npm-debug.log
+/node_modules
+
+# All platforms
+platforms/
+# # iOS
+# platforms/ios/*
+# # android
+# platforms/android/*
+# # wp8
+# platforms/wp8
+
+plugins/
+
+# res
+resources/signing
