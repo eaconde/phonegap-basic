@@ -16,6 +16,7 @@ platforms/
 # # wp8
 # platforms/wp8
 
+# All plugins. Regenerate via 
 plugins/
 
 # res
